@@ -8,6 +8,6 @@ Seamlessly blending aesthetics and functionality, our user-friendly interface em
 Whether you're a traveler, business professional, or simply managing finances, our website provides a comprehensive and reliable solution for all your currency conversion needs. Trust in the precision of our algorithms, the elegance of our design, and the convenience of our features, making your financial interactions a breeze."
 
 
-The webpage looks like.,
+The webpage looks like,
 
 <img width="300" alt="image" src="https://github.com/varshini1809/currency-converter/assets/109849338/d0e60ee4-fe54-47b3-a780-dee5231f2f8b">
